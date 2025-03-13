@@ -1,9 +1,9 @@
-# MATLAB Logo Generator  
-![MATLAB Logo](MATLAB_Logo.png)  
+# MATLAB Logo Generator 📐
 
 Generate MATLAB's iconic logo programmatically using the `membrane` function and 3D visualization.  
 
-# MATLAB Logo Generator 📐
+![MATLAB Logo](MATLAB_Logo.png)  
+
 
 ![Python Version](https://img.shields.io/badge/MATLAB-R2023b-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
